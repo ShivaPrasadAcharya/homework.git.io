@@ -1,0 +1,1 @@
+Reversible Development Requirement: The structure implies that development must be designed to be reversible if environmental damage exceeds acceptable limits - a constitutional requirement for adaptive development.
