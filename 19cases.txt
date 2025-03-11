@@ -1,0 +1,21 @@
+cases march 8
+benefit of doubt case goes to statute (exception)
+presumption of constitutionality
+
+2. Navtej Singh Johar v. Union of India (2018)
+भारतीय दण्ड संहिताको धारा 377 (समलिङ्गी सम्बन्धलाई अपराध मान्ने) को संवैधानिकता परीक्षण गर्दा, सर्वोच्च अदालतले उक्त धाराको आंशिक रूपमा असंवैधानिक घोषित गर्‍यो। न्यायमूर्ति D.Y. Chandrachud ले आफ्नो फैसलामा लेखे:
+"जहाँ मौलिक अधिकारहरूको संरक्षणको प्रश्न आउँछ, त्यहाँ शङ्काको सुविधा कानूनलाई होइन, मौलिक अधिकारहरूलाई दिइनुपर्छ। अन्यथा संविधानवादको आधारभूत उद्देश्य नै पराजित हुन्छ।"
+
+3. Shreya Singhal v. Union of India (2015)
+सूचना प्रविधि ऐनको धारा 66A लाई असंवैधानिक घोषित गर्दै सर्वोच्च अदालतले भन्यो:
+"अभिव्यक्ति स्वतन्त्रताजस्ता मौलिक अधिकारहरूलाई सीमित गर्ने कानूनहरूको संवैधानिकता परीक्षणमा शङ्काको सुविधा कानूनलाई दिने परम्परागत सिद्धान्त लागू हुँदैन। बरु, यस्ता कानूनहरू अति संकीर्ण (narrowly tailored) छन् भन्ने प्रमाणको भार राज्यमा रहन्छ।"
+
+4. Justice K.S. Puttaswamy v. Union of India (2017)
+निजताको अधिकारसम्बन्धी यस ऐतिहासिक फैसलामा सर्वोच्च अदालतको 9-सदस्यीय संवैधानिक इजलासले भन्यो:
+"मौलिक अधिकारहरूको विषयमा शङ्काको सुविधा कानूनलाई होइन, नागरिकको अधिकारलाई दिइनुपर्छ। राज्यले अधिकारमाथि लगाइएको प्रतिबन्ध आवश्यक र आनुपातिक छ भन्ने प्रमाणित गर्नुपर्छ।"
+
+
+Doctrine of progressive realization of rights
+
+2. Navtej Singh Johar v. Union of India (2018):
+it must be noted that the presumption of constitutionality is merely an evidentiary burden initially on the person seeking to challenge the vires of a statute and once any violation of fundamental rights or suspect classification is prima facie shown, then such presumption has no role.
